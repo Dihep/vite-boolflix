@@ -1,5 +1,6 @@
 <script>
-// import  from './components/.vue'
+import store from "./data/store.js"
+
 </script>
 
 <template>
